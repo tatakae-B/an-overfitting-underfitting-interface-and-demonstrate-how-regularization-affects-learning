@@ -1,0 +1,5 @@
+# Ensure consistent line endings (helps avoid huge diffs on Windows)
+*.py text eol=lf
+*.md text eol=lf
+*.txt text eol=lf
+* text=auto
