@@ -6,7 +6,7 @@ affect bias/variance on a simple synthetic regression task.
 ## Quick start
 
 ```bash
-# recommended: Python 3.12
+# recommended: Python 3.12 (Streamlit Cloud uses runtime.txt)
 pip install -r requirements.txt
 streamlit run app.py
 ```

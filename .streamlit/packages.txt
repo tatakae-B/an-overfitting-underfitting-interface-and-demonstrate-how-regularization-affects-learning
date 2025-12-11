@@ -1,0 +1,2 @@
+--only-binary=scikit-learn,numpy,scipy
+
